@@ -1,6 +1,7 @@
 ### 한글 폰트 문제 해결 
 ### matplotlib은 한글 폰트를 지원하지 않음
 ### os정보
+import matplotlib.pyplot as plt
 import platform
 
 ### font_manager : 폰트 관리 모듈
